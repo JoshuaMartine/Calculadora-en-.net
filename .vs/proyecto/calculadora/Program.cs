@@ -4,11 +4,11 @@ class Calculator
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Bienvenido a la Calculadora");
-        Console.WriteLine("Ingrese el primer número:");
+        Console.WriteLine("Bienvenido a la Calculadora Señores y señoras");
+        Console.WriteLine("Ingrese el primer digito numero para el hermoso proceso matematico:");
         double num1 = Convert.ToDouble(Console.ReadLine());
 
-        Console.WriteLine("Ingrese el segundo número:");
+        Console.WriteLine("Ingrese el segundo de lo que dije en lo primero:");
         double num2 = Convert.ToDouble(Console.ReadLine());
 
         Console.WriteLine("Seleccione la operación a realizar:");
